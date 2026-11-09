@@ -1,0 +1,3 @@
+<Bindings>
+    <Binding name="EMOTERING" runOnUp="true" header="EMOTERING">EmoteRing_Key(keystate)</Binding>
+</Bindings>
