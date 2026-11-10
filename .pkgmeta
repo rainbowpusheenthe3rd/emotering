@@ -1,0 +1,8 @@
+package-as: EmoteRing
+
+ignore:
+  - tools
+  - tests
+  - docs
+  - README.md
+  - RESEARCH.md
