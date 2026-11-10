@@ -1,4 +1,4 @@
-r"""Draw EmoteRing's disc: addon/EmoteRing/disc.tga, a 64x64 moonlit disc with a silver rim, for each emote.
+r"""Draw EmoteRing's disc: disc.tga, a 64x64 moonlit disc with a silver rim, for each emote.
 
   python tools/emotering_textures.py
 """
@@ -7,7 +7,7 @@ from pathlib import Path
 
 import numpy as np
 
-OUT = Path(__file__).resolve().parents[1] / "addon" / "EmoteRing" / "disc.tga"
+OUT = Path(__file__).resolve().parents[1] / "disc.tga"
 SIZE, SS = 64, 4
 
 

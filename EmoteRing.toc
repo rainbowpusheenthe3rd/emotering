@@ -1,7 +1,7 @@
 ## Interface: 16001, 120105
 ## Title: Emote ring
 ## Notes: Hold a key for a ring of roleplay emotes round the cursor (kneel, pray, smile...); release on one. /er
-## Author: the author
+## Author: rainbowpusheenthe3rd
 ## Version: 0.1.0
 
 EmoteRing.lua
