@@ -1,5 +1,7 @@
 # EmoteRing
 
+![The ring of emotes round the cursor, with Kneel under the mouse](docs/ring.png)
+
 ### Kneel, pray or smile in the middle of a scene without typing a word: hold one key, let go on the emote.
 
 ## What you get
@@ -42,3 +44,5 @@ New-Item -ItemType Junction -Path "<WoW folder>\_forever_\Interface\AddOns\Emote
 `tests/` holds its smoke test, which runs the addon against a stubbed game (`uv run --with lupa --with pytest pytest tests/`).
 
 </details>
+
+<p align="center"><img src="docs/mint.png" alt="The Kneel disc" width="140"></p>
